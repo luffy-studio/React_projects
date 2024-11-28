@@ -31,10 +31,12 @@ const Footer = () => {
         <p>Contact</p>
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <ul>
+          <li> <a href="https://www.youtube.com/" className='cursoe-pointer text-white'>Get in touch</a></li>
+          <li>Crechterwoord K12 182 DK Alknjkcb</li>
+          <li>085-132567</li>
+          <li>info@payme.net</li>
+          </ul>
       </div>
     </div>
 
